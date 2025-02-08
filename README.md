@@ -15,10 +15,10 @@ Unearth patterns, fix mistakes, and laugh at your past self—all by mining your
 
 ```bash
 # Using cargo
-cargo install timecraft
+cargo install timecraft # TODO: actually publish it
 
 # Or build from source
-git clone https://github.com/yourusername/timecraft.git
+git clone https://github.com/cesarferreira/timecraft.git
 cd timecraft
 cargo build --release
 ```

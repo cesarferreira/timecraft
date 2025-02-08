@@ -2,7 +2,7 @@
 name = "timecraft"
 version = "0.1.0"
 edition = "2021"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Cesar Ferreira <cesar.manuel.ferreira@gmail.com>"]
 description = "A CLI tool that analyzes your shell history to surface insights and automate workflows"
 
 [[bin]]
